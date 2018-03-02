@@ -49,4 +49,4 @@ Projects will be graded along the following dimensions:
 
 
 
-[contents of this page were derived from this excellent guidance from Rob Schapire on choosing projects for his course at Princeton.]
+(contents of this page were derived from [this excellent guidance](http://www.cs.princeton.edu/courses/archive/spring14/cos511/project.html) from Rob Schapire on choosing projects for his course at Princeton.)
