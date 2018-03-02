@@ -2,7 +2,7 @@
 
 *	Project proposals are due on March 26, 2018
     * Requires Brief Description of the project, at most 1-page
-    * Submission link to be provided soon
+    * Online Submission Only, link will be provided soon
 * First draft of project reports are due on April 30. You may use another week to improve your presentation, and submit final report on May 6.
 
 
